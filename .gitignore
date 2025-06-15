@@ -11,3 +11,8 @@ public/media/
 
 public/robots.txt
 public/sitemap*.xml
+
+# Cursor AI generated files
+.cursor/
+# Specifically ignore the security checklist if other .cursor files need to be tracked
+# .cursor/Security-Checklist.md
